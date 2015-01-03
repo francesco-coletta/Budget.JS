@@ -1,0 +1,389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"servi",
+				"service"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows",
+				"name": "<html>"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 90.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/Alignment/Base File.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/Distraction Free.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/MultiMarkdown.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/Markdown.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/CSS.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/HTML.sublime-settings",
+		"/C/development/Sublime Text 2.0.2 x64/Data/Packages/User/JSON.sublime-settings",
+		"/C/GIT_Local_Repository/human-geo/src/main/java/com/oschrenk/humangeo/calc/OrthodromeBearing.java",
+		"/C/GIT_Local_Repository/human-geo/src/main/java/com/oschrenk/humangeo/core/Sphere.java",
+		"/C/GIT_Local_Repository/human-geo/src/main/java/com/oschrenk/humangeo/calc/HaversineDistance.java",
+		"/C/GIT_Local_Repository/human-geo/src/main/java/com/oschrenk/humangeo/api/Bearing.java",
+		"/C/GIT_Local_Repository/human-geo/src/main/java/com/oschrenk/humangeo/calc/CrossTrackOrthodromeDistance.java",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/widgets/Search/SearchWidget_identify.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewerAd/widgets/eSearch/eSearchWidget.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewerAd/widgets/Search/SearchWidget_identify.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewerAd/config.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewerAd/config_editing.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_12.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewerAd/popups/PopUp_12.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewerAd/popups/PopUp_47.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/config.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_42.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_46.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_19.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_1.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_11.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_13.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_14.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_15.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_16.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_17_B.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_17.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_18.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_39.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_49.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_38.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_2.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_3.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_4.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_5.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_6.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_7.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_8.xml",
+		"/C/HG_Local_Repository/pkt305-3.4/web-module/src/main/custom/local-mapm/webapp/viewers/MarocMapViewer/popups/PopUp_9.xml",
+		"/C/GIT_Local_Repository/bloodhoud/bloodhoudServer/bloodhoud_server.js",
+		"/C/GIT_Local_Repository/bloodhoud/bloodhoudServer/public/index.html",
+		"/C/GIT_Local_Repository/bloodhoud/bloodhoudServer/README.txt",
+		"/C/GIT_Local_Repository/bloodhoud/bloodhoudServer/routes/databaseCon.js",
+		"/C/GIT_Local_Repository/bloodhoud/bloodhoudServer/package.json",
+		"/C/GIT_Local_Repository/Bloodhoud/BloodhoudServer/package.json",
+		"/C/GIT_Local_Repository/Bloodhoud/BloodhoudServer/README_APPFOG.txt",
+		"/C/GIT_Local_Repository/Bloodhoud/BloodhoudServer/Cloudfoundry.txt",
+		"/C/GIT_Local_Repository/Bloodhoud/BloodhoudServer/bloodhoud_ws_server.js",
+		"/C/GIT_Local_Repository/Bloodhoud/BloodhoudServer/bloodhoud_server.js",
+		"/C/GIT_Local_Repository/Bloodhoud/BloodhoudServer/README.txt",
+		"/C/GIT_Local_Repository/amtabEs/kibana/src/app/panels/histogram/timeSeries.js",
+		"/C/GIT_Local_Repository/amtabEs/kibana/src/config.js",
+		"/C/GIT_Local_Repository/amtabEs/kibana/src/app/panels/histogram/module.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"histogram",
+			"kibana.panels.histogram",
+			"data",
+			"query",
+			"querynnnnn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"histogramAmtab",
+			"kibana.panels.histogramAmtab"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html>",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}
