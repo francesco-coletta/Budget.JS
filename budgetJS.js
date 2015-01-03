@@ -10,7 +10,7 @@ angular.module('budgetJS', [])
     ['$scope', 
      function($scope)
      {
-            $scope.test = "Hello Budget JS";  
+            $scope.AppTitle = "Welcome to Budget";  
 
             $scope.posts = [
                 {title: "post 1", upvotes: 5 },
@@ -35,7 +35,12 @@ angular.module('budgetJS', [])
             $scope.incrementUpvotes = function(post)
             {
                 post.upvotes += 1;
-            }
+            };
+
+            $scope.decrementUpvotes = function(post)
+            {
+                post.upvotes -= 1;
+            };
         }
     ]);
 
