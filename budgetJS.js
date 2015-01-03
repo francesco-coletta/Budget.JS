@@ -8,7 +8,8 @@ angular.module('budgetJS', [])
 .controller(
     'MainController', 
     ['$scope', 
-     function($scope){
+     function($scope)
+     {
             $scope.test = "Hello Budget JS";  
 
             $scope.posts = [
@@ -21,13 +22,19 @@ angular.module('budgetJS', [])
                 {title: "post 7", upvotes: 0 }
             ];
 
-            $scope.addPost = function(){
+            $scope.addPost = function()
+            {
                 if ($scope.title && !($scope.title === ""))
                 {
                     $scope.posts.push({title: $scope.title, upvotes: 0 });
                     $scope.title = "";
                 };
             };
+
+            $scope.incrementUpvotes = function(post)
+            {
+                post.upvotes += 1;
+            }
         }
     ]);
 
