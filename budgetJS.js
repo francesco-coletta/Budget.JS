@@ -20,6 +20,10 @@ angular.module('budgetJS', [])
                 {title: "post 6", upvotes: 1 },
                 {title: "post 7", upvotes: 0 }
             ];
+
+            $scope.addPost = function(){
+                $scope.posts.push({title: "New post !", upvotes: 0 });
+            };
         }
     ]);
 
