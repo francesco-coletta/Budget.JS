@@ -1,46 +1,46 @@
 /**
-*  Module
+*  App Budget JS
 *  
-*
-* Description
 */
-angular.module('budgetJS', [])
+angular.module('budgetJS', ['repository'])
 .controller(
     'MainController', 
-    ['$scope', 
-     function($scope)
+    ['postRepository',
+     function(postRepository)
      {
-            $scope.AppTitle = "Welcome to Budget";  
+        this.appTitle = "Welcome to Budget";  
+        
+        this.title = "";
+        this.link = "";
+        this.posts = postRepository.posts;
 
-            $scope.posts = [
-                {title: "post 1", upvotes: 5 },
-                {title: "post 2", upvotes: 0 },
-                {title: "post 3", upvotes: 6 }
-            ];
-
-            $scope.addPost = function()
+        this.addPost = function()
+        {
+            if (this.title && !(this.title === ""))
             {
-                if ($scope.title && !($scope.title === ""))
-                {
-                    $scope.posts.push({
-                        title: $scope.title,
-                        link: $scope.link,
-                        upvotes: 0 
-                    });
-                    $scope.title = "";
-                    $scope.link = "";
-                };
+                this.posts.push({
+                    title: this.title,
+                    link: this.link,
+                    upvotes: 0 
+                });
+                this.title = "";
+                this.link = "";
             };
+        };
 
-            $scope.incrementUpvotes = function(post)
-            {
-                post.upvotes += 1;
-            };
+        this.incrementUpvotes = function(post)
+        {
+            post.upvotes += 1;
+        };
 
-            $scope.decrementUpvotes = function(post)
+        this.decrementUpvotes = function(post)
+        {
+            if (post.upvotes > 0)
             {
                 post.upvotes -= 1;
-            };
-        }
-    ]);
+            }
+        };
+    }
+]);
+
 
