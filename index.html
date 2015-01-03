@@ -12,7 +12,10 @@
       {{post.title}}  - upvotes: {{post.upvotes}}
     </div>
 
-    <button ng-click="addPost()">Add new post</button>
+    <form ng-submit="addPost()">
+      <input typ=="text" ng-model="title">
+      <button type="submit">Add new post</button>
+    </form>
   </body>
 </html>
 
