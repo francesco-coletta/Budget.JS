@@ -22,8 +22,11 @@ angular.module('budgetJS', [])
             ];
 
             $scope.addPost = function(){
-                $scope.posts.push({title: $scope.title, upvotes: 0 });
-                $scope.title = "";
+                if ($scope.title && !($scope.title === ""))
+                {
+                    $scope.posts.push({title: $scope.title, upvotes: 0 });
+                    $scope.title = "";
+                };
             };
         }
     ]);
