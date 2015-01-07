@@ -1,0 +1,32 @@
+<div class="page-header">
+  <h1>{{mainCtrl.appTitle}}</h1>
+</div>
+
+<div ng-repeat="post in mainCtrl.posts | orderBy: '-upvotes'"> 
+  <span class="glyphicon glyphicon-thumbs-up" ng-click="mainCtrl.incrementUpvotes(post)"></span>
+  <span class="glyphicon glyphicon-thumbs-down" ng-click="mainCtrl.decrementUpvotes(post)"></span>
+  {{post.upvotes}}
+  <span style="font-size:20px; margin-left:10px;">
+    <a ng-show="post.link" href="{{post.link}}">
+      {{post.title}}
+    </a>
+    <a ng-hide="post.link">
+      {{post.title}}
+    </a>
+    <span>
+      <a href="#/posts/{{$index}}">Comments</a>
+    </span>    
+  </span>
+</div>
+
+<form style="margin-top:30px" ng-submit="mainCtrl.addPost()">
+  <h3>New post</h3>
+  <div class="form-group">
+    <input class="form-controll" type="text" placeholder="Title" ng-model="mainCtrl.title">
+  </div>
+  <div class="form-group">
+    <input  class="form-controll"  type="text" placeholder="Link" ng-model="mainCtrl.link">
+  </div>
+  <br>
+  <button class="btn btn-primary" type="submit">Add</button>
+</form>
